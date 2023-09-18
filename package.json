@@ -1,5 +1,5 @@
 {
-  "name": "slidev-theme-ksick-dynatrace",
+  "name": "api-first",
   "version": "0.3.0",
   "keywords": [
     "slidev-theme",
@@ -10,15 +10,16 @@
     "slidev": ">=0.19.3"
   },
   "scripts": {
-    "build": "slidev build example.md",
-    "dev": "slidev example.md --open",
-    "export": "slidev export example.md",
-    "screenshot": "slidev export example.md --format png"
+    "build": "slidev build presentation.md --base /api-first-approach/ --out docs",
+    "dev": "slidev presentation.md --open",
+    "export": "slidev export presentation.md",
+    "screenshot": "slidev export presentation.md --format png"
   },
   "dependencies": {
     "@slidev/types": "^0.42.11",
     "codemirror-theme-vars": "^0.1.2",
     "prism-theme-vars": "^0.2.4",
+    "slidev-theme-ksick-dynatrace": "^0.4.0",
     "theme-vitesse": "^0.7.2",
     "vue": "^3.3.4"
   },
