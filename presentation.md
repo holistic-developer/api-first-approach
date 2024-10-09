@@ -39,7 +39,7 @@ who am I to talk about this
 ---
 layout: about
 transition: fade-out
-image: https://andreas.taranetz.com/images/andreas.webp
+image: andreas.webp
 speaker: Andreas Taranetz
 jobTitle: Software Engineer
 website: andreas.taranetz.com
