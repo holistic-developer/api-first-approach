@@ -446,7 +446,7 @@ your fellow developers will love you for
 
 ---
 layout: outro-speaker
-image: 'https://andreas.taranetz.com/images/andreas.webp'
+image: andreas.webp
 speaker: Andreas Taranetz
 website: andreas.taranetz.com
 ---
